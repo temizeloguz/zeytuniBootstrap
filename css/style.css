@@ -1,0 +1,36 @@
+html{
+    height: 100%;
+   
+}
+
+body{
+    height: 100%;
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+}
+
+.navbarLogos img{
+    width: 32px;
+    
+   
+}
+.row{
+    font-size: 20px;
+
+}
+nav{
+    border-radius: 5px;
+    border-style: inset;    
+}
+.col{
+    margin-right: 10px;
+}
+.col:hover{
+    background-color: yellow;
+    transition: 1s;
+ 
+}
