@@ -28,6 +28,8 @@ nav{
 }
 .col{
     margin-right: 10px;
+    margin-left: 10px;
+    height: 40px;
 }
 .col:hover{
     background-color: yellow;
