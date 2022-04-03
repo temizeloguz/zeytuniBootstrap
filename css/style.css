@@ -28,7 +28,8 @@ height: auto;
 }
 .zeytuniHeader{
     font-family: 'Bad Script', cursive;
-    font-weight: 600;
+    font-weight: 800;
+    font-size: 60px;
 
 }
 .navbarLogos img{
