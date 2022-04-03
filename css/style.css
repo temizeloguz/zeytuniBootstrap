@@ -26,7 +26,11 @@ body{
 max-width: 100%;
 height: auto;
 }
+.zeytuniHeader{
+    font-family: 'Bad Script', cursive;
+    font-weight: 600;
 
+}
 .navbarLogos img{
     width: 42px;
     
