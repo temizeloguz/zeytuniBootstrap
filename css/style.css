@@ -57,7 +57,7 @@ nav img {
 .zeytuniHeader {
   font-family: "Bad Script", cursive;
   font-weight: bolder;
-  font-size: 8vw;
+  font-size: 7vw;
   margin-top: 60px;
   margin-bottom: 60px;
   animation: backInLeft;
@@ -73,7 +73,7 @@ nav img {
 }
 
 .zeytuniParagraph {
-  font-size: 3.5vw;
+  font-size: 3vw;
   animation: backInLeft;
   animation-duration: 4s;
   font-family: 'Dosis', sans-serif;
